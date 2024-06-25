@@ -50,3 +50,12 @@ By exploring credit card defaults data, I gained valuable skills in data prepara
 ---
 <img width="587" alt="Screenshot 2024-06-25 at 5 19 30 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/908da51b-fdf3-4c9e-8d32-06907bd4027d">
 
+<img width="594" alt="Screenshot 2024-06-25 at 5 19 55 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/c99a9e23-8565-49b9-8a31-682318209200">
+
+<img width="588" alt="Screenshot 2024-06-25 at 5 19 43 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/37b4f43a-340e-42bd-9f31-423106095753">
+
+<img width="593" alt="Screenshot 2024-06-25 at 5 20 17 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/14120c76-d16b-4e61-ab52-1887b390e4a3">
+
+<img width="586" alt="Screenshot 2024-06-25 at 5 20 40 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/c6b53600-da20-44a2-a882-5656c15a4b19">
+
+<img width="593" alt="Screenshot 2024-06-25 at 5 20 30 PM" src="https://github.com/Shwetanair04/Power-BI-Analyzing-Credit-Card-Defaults/assets/162504579/03152c7e-2333-42fa-b3ec-51a00770d009">
